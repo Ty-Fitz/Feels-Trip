@@ -6,7 +6,7 @@ http://www.keyboard-layout-editor.com/##@@=Esc&_x:0.25%3B&=F1&=F2&=F3&=F4&_x:0.2
 
 The goal of this is to make a new and supported OPEN SOURCE PCB that works with the current cases used for Beater Field trip, made by Cyberjedi, as well as cases made by Glow
 
-
+Currently using STM32 controller, solder only, single layout big bar.
 
 
 ![image](https://github.com/Ty-Fitz/Fieldtrip-reboot/assets/127678239/c484dccc-efcf-4b54-8bff-8147cc7056f8)
