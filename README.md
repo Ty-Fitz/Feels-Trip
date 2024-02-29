@@ -12,3 +12,8 @@ Future plans: big right shift, split bars, and meme F row 4u bar support
 
 ![image](https://github.com/Ty-Fitz/Fieldtrip-reboot/assets/127678239/c484dccc-efcf-4b54-8bff-8147cc7056f8)
 ![image](https://github.com/Ty-Fitz/Fieldtrip-reboot/assets/127678239/bb4d0bc8-aeb5-4cdc-acd0-7e6724e807e2)
+
+
+The Feels Trip case is a simple tkl style case for Feels Trip and Beater Field Trip, using a top mount and seamless simple side profiles. The bottom plate can be 3d printed, or laser cut out of something like acrylic, steel or brass
+
+![image](https://github.com/Ty-Fitz/Feels-Trip/assets/127678239/f2c2d20c-2005-4973-833f-3260d8cbd10a)
