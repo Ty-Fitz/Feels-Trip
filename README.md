@@ -1,4 +1,4 @@
-# Fieldtrip-reboot
+# Feels Trip
 Remade open source version of Field Trip
 
 
